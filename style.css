@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #111;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+.container {
+  max-width: 600px;
+  margin: auto;
+}
+.button, .planos button {
+  display: block;
+  margin: 10px auto;
+  padding: 15px;
+  background: red;
+  color: white;
+  border: none;
+  font-size: 18px;
+  cursor: pointer;
+  border-radius: 10px;
+}
+.dicas ul {
+  list-style: none;
+  padding: 0;
+}
+.dicas li {
+  margin: 5px 0;
+}
